@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
             paint.setStrokeWidth(0);
             paint.setTextSize(30);
-            canvas.drawText(" ȵ   ̵ ", 10, 390, paint);
+            canvas.drawText("일단 뭐가 들어가는 곳", 10, 390, paint);
         }
     }
 }
